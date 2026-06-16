@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 # lectura de csv (dataframes)
 df_eph = pd.read_csv("microdatos_2016_2025/eph_salta_tucuman_22016_42025.csv")
 df_ipc_trimestral = pd.read_csv("microdatos_2016_2025/IPC_trimestre_2017_2025/ipc_trimestral_12017_42025.csv")
